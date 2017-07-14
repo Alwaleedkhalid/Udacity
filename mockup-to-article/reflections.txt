@@ -1,0 +1,15 @@
+What new skills have you learned?
+
+i learned for example how to change font and copy font from "google font" and put it in head as <link>
+
+What has been easy?
+
+url
+
+What has been difficult?
+
+<hr> :)
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+by using mdn and w3school very awesome 
